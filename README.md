@@ -82,6 +82,7 @@ Vinted provides integrated shipping with prepaid labels in most countries.
 - **Price 10-15% higher than your minimum** — Buyers frequently make offers
 - **Use the "Include Postage" option strategically** — Free shipping items often sell faster
 - **Don't go too low** — Vinted's minimum sale price is €1/£1, but very cheap items may not be worth the shipping effort
+- **Check a real price range first** — [Resale IQ](https://resaleiq.dev/tools/vinted-price-checker) has a free Vinted price checker, and publishes an open monthly [Secondhand Price Index](https://resaleiq.dev/data/secondhand-price-index) (median asking prices by brand, FR/DE/ES/IT/PT; asking prices, not confirmed sales). Disclosure: maintained by the Resale IQ founder
 
 ### Listing Optimisation
 - **Use all 20 photo slots** — More photos = more trust = faster sales
