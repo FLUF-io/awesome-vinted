@@ -158,6 +158,9 @@ Vinted's algorithm favours new listings. Relisting (deleting and re-posting an i
 ### Automated Relisting
 - [FLUF Connect](https://fluf.io) offers smart relisting that automatically prioritises which items to relist based on age, price, category sell-through rate, and seasonality
 
+### Buyer Alerts & Auto-Buy
+- [VINTI](https://vintibot.com) — Vinted bot for buyers and resellers sourcing stock: real-time alerts for new listings (app, push, Discord, Telegram) and one-click Auto-Buy; 26 Vinted countries, 20 languages.
+
 ## Common Issues & Solutions
 
 | Issue | Solution |
